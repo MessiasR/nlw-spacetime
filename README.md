@@ -14,5 +14,5 @@
 
   ## 🏷️ Layout
   Você pode visualizar o Layout do projeto através
-  [desse link](https://www.figma.com/community/file/1240071097028170811)
+  [desse link.](https://www.figma.com/community/file/1240071097028170811)
   É necessário ter uma conta no [Figma.](https://www.figma.com/)
